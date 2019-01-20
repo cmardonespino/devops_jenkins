@@ -20,3 +20,7 @@ cat /tmp/script.sh
 cat /tmp/script.sh 
 git status
 exit
+ssh remote_user@remote_host
+exit
+ssh remote_user@remote_host
+exit
