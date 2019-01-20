@@ -1,0 +1,5 @@
+Started by user [8mha:////4J+vA+4XuFnbSyflNprZkFrL9+6pI39oTEnB7ISsiInrAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Building remotely on [8mha:////4CAyjxjxTLvN50wfuP7X2Ct/AsSd3KKMrGmqIJ5GD1NKAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/aLUXKCa+Iz84hIAwt9aGcoAAAA=[0mremote_host in workspace /var/jenkins_home/workspace/execute-from-anget-node
+[execute-from-anget-node] $ /bin/sh -xe /tmp/jenkins513722919245181600.sh
++ echo Hello
+Finished: SUCCESS
