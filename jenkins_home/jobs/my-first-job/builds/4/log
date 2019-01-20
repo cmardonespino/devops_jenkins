@@ -1,0 +1,8 @@
+Started by user [8mha:////4J+vA+4XuFnbSyflNprZkFrL9+6pI39oTEnB7ISsiInrAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins7412074090755775893.sh
++ date
++ echo Hello Carlos. The current date is: Sun Jan 20 16:27:23 UTC 2019
++ cat /tmp/info
+Hello Carlos. The current date is: Sun Jan 20 16:27:23 UTC 2019
+Finished: SUCCESS
