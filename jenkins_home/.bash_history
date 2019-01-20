@@ -11,3 +11,12 @@ echo "Currently date is: $DATE"
 echo "Currently date is: $(date)"
 cat /tmp/info 
 exit
+ls
+cd
+ls
+ls
+exit
+cat /tmp/script.sh 
+cat /tmp/script.sh 
+git status
+exit
