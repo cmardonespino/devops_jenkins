@@ -1,6 +1,9 @@
 FROM centos
 
 RUN yum -y install openssh-server
+RUN yum -y install java-1.8.0-openjdk-devel
+RUN mkdir /var/jenkins_home
+RUN chmod -R 777 /var/jenkins_home
 
 RUN useradd remote_user && \
     echo "1234" | passwd remote_user --stdin && \
