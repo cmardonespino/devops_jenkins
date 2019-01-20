@@ -1,5 +1,6 @@
 
 ## HOWTO
+You can download and execute the project without problems, but if you want to create your own ssh-key, jobs, another among, you can delete the `jenkins_home` folder and the `ssh-keys` and start from the beginning.
 ### Generate the ssh-key
 First, you need to create a ssh key. For example, you can generate it with the following command inside the [centos7](https://github.com/cmardonespino/devops_jenkins/tree/create_docker_compose_for_jenkins/centos7) folder:
 
